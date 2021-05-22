@@ -2,6 +2,7 @@
 
 It's NaiveTomcat here!
 
+- 🖥 I own and maintain AS142280 and DN42 AS4242423309
 - 🔭 I’m currently working on AloLang
 - 🌱 I’m currently learning how to invent a language
 - 👯 I’m looking to collaborate on compiler coding
